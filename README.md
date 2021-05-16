@@ -21,4 +21,4 @@ Add all your driver (.exe file) in Python Script folder
 
 # How to run
 1) On terminal run: git clone https://github.com/thapamri1/projectAutomation.git
-2) Open the folder with IDE and run the command: feature <path>
+2) Open the folder with IDE and run the command: behave <path>
